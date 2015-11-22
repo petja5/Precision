@@ -1,0 +1,4 @@
+1. Slika desno od texta:
+Lahko to kako rešim z container, container-fluid, pull-right ali margin?
+
+2.Do 992px slika in vsebina nista enako velika?
